@@ -1,0 +1,176 @@
+FakeUe: 2026-10-12 10:59:13,552 - INFO - Fake ue started
+FakeUe: 2026-10-12 10:59:13,552 - INFO - Created UE 192.168.7.1 TEID_dl=2 TEID_ul=3
+FakeUe: 2026-10-12 10:59:13,552 - INFO - Created UE 192.168.7.2 TEID_dl=4 TEID_ul=5
+FakeUe: 2026-10-12 10:59:13,552 - INFO - Created UE 192.168.7.3 TEID_dl=6 TEID_ul=7
+FakeUe: 2026-10-12 10:59:13,552 - INFO - Created UE 192.168.7.4 TEID_dl=8 TEID_ul=9
+FakeUe: 2026-10-12 10:59:14,011 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:14,013 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:14,014 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:14,014 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:14,015 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:14,017 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:15,013 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:15,014 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:15,015 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:16,014 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:16,016 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:16,016 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:17,016 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:17,017 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:17,019 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:18,017 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:18,019 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:18,020 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:19,020 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:19,022 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:19,023 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:20,022 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:20,023 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:20,024 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:21,024 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:21,026 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:21,027 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:22,025 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:22,030 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:22,033 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:23,026 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:23,028 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:23,029 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:24,028 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:24,030 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:24,031 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:25,028 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:25,030 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:25,031 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:26,030 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:26,033 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:26,034 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:27,032 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:27,034 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:27,035 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:28,034 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:28,035 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:28,036 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:29,036 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:29,038 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:29,039 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:30,038 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:30,040 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:30,041 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:31,040 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:31,045 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:31,047 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:32,042 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:32,043 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:32,044 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:33,045 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:33,046 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:33,047 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:34,047 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:34,051 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:34,051 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:35,048 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:35,050 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:35,052 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:36,050 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:36,052 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:36,053 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:37,052 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:37,054 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:37,055 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:38,055 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:38,057 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:38,058 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:39,056 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:39,058 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:39,059 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:40,058 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:40,060 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:40,060 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:41,060 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:41,063 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:41,064 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:42,062 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:42,064 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:42,065 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:43,064 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:43,066 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:43,068 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:44,066 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:44,069 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:44,070 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:45,068 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:45,070 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:45,071 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:46,070 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:46,072 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:46,073 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:47,072 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:47,074 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:47,075 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:48,074 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:48,075 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:48,076 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:49,076 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:49,078 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:49,079 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:50,078 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:50,080 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:50,082 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:51,080 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:51,083 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:51,084 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:52,082 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:52,083 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:52,085 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:53,089 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:53,099 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:53,103 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:54,086 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:54,087 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:54,088 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:55,088 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:55,090 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:55,092 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:56,090 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:56,092 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:56,093 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:57,092 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:57,094 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:57,094 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:58,094 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:58,096 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:58,097 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:59,095 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 10:59:59,096 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 10:59:59,098 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:00,097 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:00,100 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:00,102 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:01,099 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:01,100 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:01,101 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:02,101 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:02,102 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:02,103 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:03,102 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:03,104 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:03,106 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:04,105 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:04,107 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:04,108 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:05,107 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:05,109 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:05,110 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:06,109 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:06,112 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:06,113 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:07,111 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:07,112 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:07,113 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:08,113 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:08,115 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:08,116 - INFO - Send to ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:09,115 - INFO - Received GTP-U message from ('192.168.9.1', 2152)
+FakeUe: 2026-10-12 11:00:09,117 - INFO - Handle ping request from: 192.168.5.1 on 192.168.7.1
+FakeUe: 2026-10-12 11:00:09,118 - INFO - Send to ('192.168.9.1', 2152)

@@ -1,0 +1,53 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/an_socket.o",
+      "src/an_socket.cpp"
+    ],
+    "directory": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel",
+    "file": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/an_socket.cpp",
+    "output": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/an_socket.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/cn_socket.o",
+      "src/cn_socket.cpp"
+    ],
+    "directory": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel",
+    "file": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/cn_socket.cpp",
+    "output": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/cn_socket.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/tun.o",
+      "src/tun.cpp"
+    ],
+    "directory": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel",
+    "file": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/tun.cpp",
+    "output": "/home/kirill/gtp-u-tunnel-lab/gtp-u-tunnel/src/tun.o"
+  }
+]
