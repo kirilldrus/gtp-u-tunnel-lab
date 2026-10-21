@@ -3,7 +3,10 @@
 #include "an_socket.h"
 #include <array>
 #include <cstdint>
+#include <expected>
 #include <netinet/in.h>
+#include <span>
+#include <string_view>
 
 namespace upf {
 
@@ -21,16 +24,16 @@ private:
     void cn_read();
     void an_read();
 
-    void handle_cn_ip(const uint8_t* frame, int len);
-    void handle_cn_arp(const uint8_t* frame, int len);
-    void handle_an_gtp(const uint8_t* datagram, int len);
+    std::expected<void, std::string_view> handle_cn_ip(std::span<const std::byte> frame);
+    std::expected<void, std::string_view> handle_cn_arp(std::span<std::byte> frame);
+    std::expected<void, std::string_view> handle_an_gtp(std::span<const std::byte> datagram);
 
     CnSocket cn_;
     AnSocket an_;
 
     sockaddr_in gnb_addr_{};
 
-    std::array<uint8_t, 6> dn_mac_{};
+    std::array<std::uint8_t, 6> dn_mac_{};
     bool dn_mac_known_ = false;
 
     int epoll_fd_ = -1;

@@ -1,6 +1,8 @@
 #pragma once
-#include <array>
+#include "socket_helpers.h"
+#include <cstddef>
 #include <cstdint>
+#include <span>
 #include <string>
 
 namespace upf {
@@ -15,16 +17,15 @@ public:
 
     int fd() const noexcept { return fd_; }
 
-    const std::array<uint8_t, 6>& mac() const noexcept { return mac_; }
+    const detail::mac_address_t& mac() const noexcept { return mac_; }
 
-    int recv(uint8_t* buf, size_t len) noexcept;
-    int send(const uint8_t* buf, size_t len) noexcept;
+    std::ptrdiff_t recv(std::span<std::byte> buf) noexcept;
+    std::ptrdiff_t send(std::span<const std::byte> buf) noexcept;
 
 private:
     static void set_nonblocking(int fd);
-
     int fd_ = -1;
-    std::array<uint8_t, 6> mac_{};
+    detail::mac_address_t mac_{};
 };
 
 } 
